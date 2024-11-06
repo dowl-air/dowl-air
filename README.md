@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Daniel
 
 📸 I’m currently working on: Building responsive web apps with React and Next.js.<br>🤝 I’m looking to collaborate on: JavaScript-based projects with engaging interfaces.<br>🤲 I’m looking for help with: Optimizing backend performance for complex apps.<br>🌱 I’m currently learning: Database systems and cloud integrations.<br>💬 Ask me about: Frontend development or scripting.<br>⚡ Fun fact: I created community-driven lookout tower website!
 
